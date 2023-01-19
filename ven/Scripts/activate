@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Usuario\Documents\Trabajos\Sistema de reservas\ven"
+VIRTUAL_ENV="C:\Users\erick\Erick\Proyectos\Proyecto de complejo deportivo\Modulo-de-reservas-para-un-complejo-deportivo-usando-codigo-QR\ven"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
